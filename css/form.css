@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    height:100px;
+}
+.header {
+    padding: 15px 0;
+    background-color: bisque;
+}
+.header-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid gold;
+}
+.logo-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 0px solid grey;
+    width: 80%;
+}
+.emp-payroll{
+    color: aqua;
+}
+*{box-sizing: border-box;}

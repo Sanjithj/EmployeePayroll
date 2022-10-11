@@ -17,7 +17,7 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    border: 0px solid grey;
+    border: 0px solid red;
     width: 80%;
 }
 .emp-payroll{
